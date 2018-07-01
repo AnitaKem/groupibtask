@@ -1,0 +1,19 @@
+{
+  "name": "groupibtask-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.1.7",
+    "nodemon": "^1.17.5"
+  }
+}
